@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2"
+         xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents"
+         xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents">
+    
+    <cbc:CustomizationID>urn:cen.eu:en16931:2017#compliant#urn:fdc:peppol.eu:2017</cbc:CustomizationID>
+    
+    <cbc:ID>FACT-2026-0031</cbc:ID>
+    <cbc:IssueDate>2026-05-14</cbc:IssueDate>
+    
+    <cac:AccountingSupplierParty>
+        <cac:Party>
+            <cac:PartyName>
+                <cbc:Name>WillmanTech S.L.</cbc:Name>
+            </cac:PartyName>
+        </cac:Party>
+    </cac:AccountingSupplierParty>
+    
+</Invoice>
